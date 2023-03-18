@@ -1,0 +1,2 @@
+# pyhton-practice
+teachmanagesys
