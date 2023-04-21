@@ -1,2 +1,1 @@
-# pyhton-practice
-teachmanagesys
+#kotlin-practice
